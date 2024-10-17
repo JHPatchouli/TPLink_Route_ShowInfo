@@ -1,0 +1,3 @@
+requests
+pandas
+ace_tools_open
